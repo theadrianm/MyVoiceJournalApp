@@ -19,11 +19,16 @@ android {
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
-        val openAiKey = project.properties["OPENAI_API_KEY"] as String? ?: ""
+
+        val openAiKey = providers.gradleProperty("OPENAI_API_KEY").orNull ?: ""
+
         buildConfigField("String", "OPENAI_API_KEY", "\"$openAiKey\"")
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
+
+
+
 
     buildTypes {
         release {
