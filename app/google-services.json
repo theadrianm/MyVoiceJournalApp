@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815906851976",
+    "project_id": "myvoicejournal-e583c",
+    "storage_bucket": "myvoicejournal-e583c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815906851976:android:75a9114a3a204d0350e33d",
+        "android_client_info": {
+          "package_name": "adrian.sasha.myvoicejournalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ6QjTYvr6lqPMg5ShPOdEklqQY3rKpVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815906851976:android:671256bb3e55521850e33d",
+        "android_client_info": {
+          "package_name": "com.infinilearn.voicejournal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ6QjTYvr6lqPMg5ShPOdEklqQY3rKpVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

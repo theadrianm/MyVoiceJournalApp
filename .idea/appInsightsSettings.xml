@@ -22,10 +22,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="adrian.sasha.myvoicejournalapp" />
+                  <option name="mobileSdkAppId" value="1:815906851976:android:75a9114a3a204d0350e33d" />
+                  <option name="projectId" value="myvoicejournal-e583c" />
+                  <option name="projectNumber" value="815906851976" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
